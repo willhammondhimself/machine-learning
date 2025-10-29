@@ -91,6 +91,3 @@ Edge performance: Boundary sampling to expose network strengths/weaknesses.
 Second-year at Pitzer College, active research in quantum cognative ML, and interests in combinatorics, trading algorithms, and mathematical optimization.
 
 Strong fundamentals: Python, LaTeX, ML theory, proof writing, programming.
-
-📄 License
-MIT — Open Source. Please credit if you fork or reuse these research ideas.
