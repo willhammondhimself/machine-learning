@@ -17,26 +17,6 @@ Focus: Theory-driven ML, algorithmic R&D, and experimental mathematics.
 Hand-built neural networks, functional analysis, and ML algorithms.
 Each notebook dives deep: custom architectures, physical or mathematical problem statements, bleeding-edge optimization, and rigorous benchmarking.
 
-📂 Directory & Key Projects:
-
-Project	Notebook/File	Highlights	Tech Stack
-Functional Equation Learner	Rapidity_Function.ipynb	NN solves 
-f
-(
-x
-y
-)
-=
-f
-(
-x
-)
-+
-f
-(
-y
-)
-f(xy)=f(x)+f(y), rapidity/log transforms, custom loss	NumPy, Matplotlib
 🗝️ Core Features
 Algorithm-first: All models written from scratch or with minimal libraries for total transparency.
 
